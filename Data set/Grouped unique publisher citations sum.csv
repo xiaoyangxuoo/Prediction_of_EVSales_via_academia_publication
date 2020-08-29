@@ -1,0 +1,457 @@
+,Year,Publisher,Citation Sum
+0,1997.0,Elsevier,1520
+1,1997.0,Google Patents,470
+2,1997.0,KoreaMed,3
+3,1997.0,SciELO Brasil,37
+4,1997.0,Taylor & Francis,55
+5,1997.0,Wiley Online Library,63
+6,1997.0,ieeexplore.ieee.org,414
+7,1997.0,iopscience.iop.org,1071
+8,1997.0,iovs.arvojournals.org,64
+9,1997.0,journal.csj.jp,18
+10,1997.0,koreascience.or.kr,0
+11,1997.0,search.ebscohost.com,89
+12,1997.0,spiedigitallibrary.org,15
+13,1998.0,ACS Publications,30
+14,1998.0,Elsevier,1580
+15,1998.0,Google Patents,718
+16,1998.0,Springer,174
+17,1998.0,Taylor & Francis,22
+18,1998.0,Wiley Online Library,1685
+19,1998.0,aip.scitation.org,58
+20,1998.0,books.google.com,0
+21,1998.0,degruyter.com,10
+22,1998.0,hrcak.srce.hr,14
+23,1998.0,ieeexplore.ieee.org,100
+24,1998.0,iopscience.iop.org,4301
+25,1998.0,jstage.jst.go.jp,68
+26,1998.0,koreascience.or.kr,11
+27,1998.0,liebertpub.com,181
+28,1998.0,nature.com,2752
+29,1998.0,pubs.rsc.org,51
+30,1998.0,spiedigitallibrary.org,5
+31,1998.0,thieme-connect.com,101
+32,1998.0,trs.jpl.nasa.gov,1
+33,1999.0,ACS Publications,64
+34,1999.0,APS,42
+35,1999.0,Elsevier,6073
+36,1999.0,Google Patents,1374
+37,1999.0,Springer,302
+38,1999.0,Taylor & Francis,22
+39,1999.0,Wiley Online Library,304
+40,1999.0,World Scientific,8
+41,1999.0,aip.scitation.org,35
+42,1999.0,cambridge.org,70
+43,1999.0,cheric.org,7
+44,1999.0,ieeexplore.ieee.org,330
+45,1999.0,iopscience.iop.org,3367
+46,1999.0,jstage.jst.go.jp,0
+47,1999.0,nature.com,589
+48,1999.0,nipr.repo.nii.ac.jp,9
+49,1999.0,osti.gov,0
+50,1999.0,pubs.rsc.org,36
+51,1999.0,sei.cmu.edu,0
+52,2000.0,APS,4
+53,2000.0,Citeseer,10
+54,2000.0,Elsevier,5485
+55,2000.0,Google Patents,760
+56,2000.0,JSTOR,25
+57,2000.0,Springer,188
+58,2000.0,Wiley Online Library,105
+59,2000.0,aip.scitation.org,60
+60,2000.0,cheric.org,124
+61,2000.0,ecec.me.psu.edu,140
+62,2000.0,eymj.org,22
+63,2000.0,ieeexplore.ieee.org,250
+64,2000.0,inis.iaea.org,0
+65,2000.0,iopscience.iop.org,2599
+66,2000.0,journal.csj.jp,53
+67,2000.0,nature.com,7876
+68,2000.0,osti.gov,253
+69,2000.0,researchgate.net,19
+70,2000.0,tvst.arvojournals.org,347
+71,2001.0,ACS Publications,288
+72,2001.0,APS,45
+73,2001.0,Elsevier,11213
+74,2001.0,Google Patents,931
+75,2001.0,IET,57
+76,2001.0,JSTOR,64
+77,2001.0,Springer,166
+78,2001.0,Taylor & Francis,18
+79,2001.0,Wiley Online Library,862
+80,2001.0,books.google.com,266
+81,2001.0,cambridge.org,85
+82,2001.0,ieeexplore.ieee.org,1042
+83,2001.0,inis.iaea.org,0
+84,2001.0,iopscience.iop.org,8027
+85,2001.0,iovs.arvojournals.org,55
+86,2001.0,journal.csj.jp,96
+87,2001.0,onlinejacc.org,361
+88,2001.0,osti.gov,209
+89,2001.0,pubs.rsc.org,332
+90,2001.0,researchgate.net,444
+91,2001.0,sae.org,480
+92,2001.0,scielo.conicyt.cl,1
+93,2001.0,sei.cmu.edu,0
+94,2001.0,xenosystem.com,16
+95,2002.0,AACR,58
+96,2002.0,ACS Publications,964
+97,2002.0,Elsevier,11644
+98,2002.0,Google Patents,809
+99,2002.0,JSTOR,36
+100,2002.0,Springer,1057
+101,2002.0,Taylor & Francis,16
+102,2002.0,Wiley Online Library,712
+103,2002.0,World Scientific,10
+104,2002.0,ajol.info,40
+105,2002.0,books.google.com,122
+106,2002.0,cambridge.org,57
+107,2002.0,en.cnki.com.cn,8
+108,2002.0,ieeexplore.ieee.org,1083
+109,2002.0,iopscience.iop.org,6887
+110,2002.0,jstage.jst.go.jp,4
+111,2002.0,koreascience.or.kr,35
+112,2002.0,nature.com,23
+113,2002.0,researchgate.net,5
+114,2002.0,science.sciencemag.org,52
+115,2002.0,seas.ucla.edu,170
+116,2002.0,spiedigitallibrary.org,0
+117,2003.0,ACS Publications,34
+118,2003.0,APS,73
+119,2003.0,Citeseer,8
+120,2003.0,Elsevier,15787
+121,2003.0,Google Patents,1578
+122,2003.0,Springer,116
+123,2003.0,Wiley Online Library,1500
+124,2003.0,bcin.ca,0
+125,2003.0,books.google.com,8
+126,2003.0,cs.kent.ac.uk,0
+127,2003.0,en.cnki.com.cn,7
+128,2003.0,ieeexplore.ieee.org,999
+129,2003.0,iopscience.iop.org,3927
+130,2003.0,ir.ymlib.yonsei.ac.kr,13
+131,2003.0,journal.csj.jp,108
+132,2003.0,jstage.jst.go.jp,133
+133,2003.0,lu-group.imr.ac.cn,56
+134,2003.0,phys.ipme.nw.ru,15
+135,2003.0,sae.org,122
+136,2003.0,tvst.arvojournals.org,85
+137,2004.0,ACS Publications,2996
+138,2004.0,Elsevier,12148
+139,2004.0,Google Patents,1347
+140,2004.0,SciELO Brasil,7
+141,2004.0,Springer,256
+142,2004.0,Taylor & Francis,19
+143,2004.0,Trans Tech Publ,64
+144,2004.0,Wiley Online Library,243
+145,2004.0,World Scientific,8
+146,2004.0,academia.edu,0
+147,2004.0,aip.scitation.org,369
+148,2004.0,avs.scitation.org,55
+149,2004.0,books.google.com,1059
+150,2004.0,cambridge.org,16
+151,2004.0,dankalia.com,27
+152,2004.0,diva-portal.org,7
+153,2004.0,ieeexplore.ieee.org,308
+154,2004.0,iopscience.iop.org,7606
+155,2004.0,jstage.jst.go.jp,8
+156,2004.0,lia.scitation.org,0
+157,2004.0,liebertpub.com,34
+158,2004.0,manu56.magtech.com.cn,31
+159,2004.0,osti.gov,0
+160,2004.0,pubs.rsc.org,455
+161,2004.0,spiedigitallibrary.org,2
+162,2005.0,AACR,38
+163,2005.0,ACS Publications,2716
+164,2005.0,APS,37
+165,2005.0,Elsevier,14505
+166,2005.0,Google Patents,619
+167,2005.0,IET,34
+168,2005.0,Springer,289
+169,2005.0,Trans Tech Publ,46
+170,2005.0,Wiley Online Library,4708
+171,2005.0,aip.scitation.org,76
+172,2005.0,apps.dtic.mil,15
+173,2005.0,ascelibrary.org,1
+174,2005.0,ci.nii.ac.jp,34
+175,2005.0,en.cnki.com.cn,24
+176,2005.0,ieeexplore.ieee.org,3184
+177,2005.0,inis.iaea.org,5
+178,2005.0,iopscience.iop.org,4619
+179,2005.0,jstage.jst.go.jp,127
+180,2005.0,koasas.kaist.ac.kr,0
+181,2005.0,koreascience.or.kr,19
+182,2005.0,manu56.magtech.com.cn,16
+183,2005.0,osapublishing.org,422
+184,2005.0,pdfs.semanticscholar.org,115
+185,2005.0,spiedigitallibrary.org,44
+186,2006.0,ACS Publications,3604
+187,2006.0,Citeseer,27
+188,2006.0,Elsevier,22727
+189,2006.0,Google Patents,1120
+190,2006.0,SciELO Brasil,196
+191,2006.0,Springer,124
+192,2006.0,Taylor & Francis,12
+193,2006.0,Trans Tech Publ,138
+194,2006.0,Wiley Online Library,1912
+195,2006.0,aip.scitation.org,8
+196,2006.0,airitilibrary.com,9
+197,2006.0,cambridge.org,1
+198,2006.0,cheric.org,102
+199,2006.0,electrochem.xmu.edu.cn,25
+200,2006.0,electrochemsci.org,35
+201,2006.0,en.cnki.com.cn,12
+202,2006.0,etda.libraries.psu.edu,42
+203,2006.0,ieeexplore.ieee.org,3645
+204,2006.0,ingentaconnect.com,145
+205,2006.0,iopscience.iop.org,4161
+206,2006.0,koreascience.or.kr,0
+207,2006.0,large.stanford.edu,125
+208,2006.0,nature.com,2079
+209,2006.0,osapublishing.org,256
+210,2006.0,papersearch.net,0
+211,2006.0,pubs.rsc.org,144
+212,2006.0,researchgate.net,218
+213,2006.0,science.sciencemag.org,1930
+214,2006.0,search.ieice.org,52
+215,2006.0,thejns.org,48
+216,2006.0,ui.adsabs.harvard.edu,14
+217,2007.0,ACS Publications,1762
+218,2007.0,Citeseer,0
+219,2007.0,Elsevier,20081
+220,2007.0,Google Patents,815
+221,2007.0,Soc Nuclear Med,1
+222,2007.0,Springer,117
+223,2007.0,Taylor & Francis,37
+224,2007.0,Trans Tech Publ,31
+225,2007.0,Wiley Online Library,5817
+226,2007.0,academia.edu,0
+227,2007.0,dbpia.co.kr,53
+228,2007.0,en.cnki.com.cn,6
+229,2007.0,ieeexplore.ieee.org,1817
+230,2007.0,iopscience.iop.org,4660
+231,2007.0,journals.physiology.org,67
+232,2007.0,jstage.jst.go.jp,58
+233,2007.0,kmbase.medric.or.kr,5
+234,2007.0,koreascience.or.kr,0
+235,2007.0,manu56.magtech.com.cn,16
+236,2007.0,nature.com,144
+237,2007.0,ncbi.nlm.nih.gov,127
+238,2007.0,pubs.rsc.org,2012
+239,2007.0,researchgate.net,126
+240,2007.0,synapse.koreamed.org,11
+241,2008.0,ACS Publications,9953
+242,2008.0,Elsevier,13985
+243,2008.0,Google Patents,722
+244,2008.0,SciELO Brasil,25
+245,2008.0,Springer,753
+246,2008.0,Wiley Online Library,6746
+247,2008.0,aip.scitation.org,496
+248,2008.0,apps.dtic.mil,28
+249,2008.0,asmedigitalcollection.asme.org,19
+250,2008.0,books.google.com,1569
+251,2008.0,cambridge.org,612
+252,2008.0,cds.cern.ch,20
+253,2008.0,degruyter.com,43
+254,2008.0,en.cnki.com.cn,6
+255,2008.0,go.gale.com,291
+256,2008.0,ieeexplore.ieee.org,1883
+257,2008.0,iopscience.iop.org,3721
+258,2008.0,jstage.jst.go.jp,30
+259,2008.0,karger.com,21
+260,2008.0,koreascience.or.kr,7
+261,2008.0,magonlinelibrary.com,63
+262,2008.0,mail.lancaironline.net,42
+263,2008.0,nanoscalereslett.springeropen.com,65
+264,2008.0,nature.com,12968
+265,2008.0,osapublishing.org,114
+266,2008.0,pubs.rsc.org,890
+267,2008.0,researchgate.net,372
+268,2008.0,revistas.usp.br,5
+269,2008.0,sae.org,10
+270,2008.0,scielo.conicyt.cl,0
+271,2008.0,synapse.koreamed.org,7
+272,2008.0,ui.adsabs.harvard.edu,1
+273,2009.0,ACS Publications,5761
+274,2009.0,Elsevier,8419
+275,2009.0,Google Patents,240
+276,2009.0,Springer,931
+277,2009.0,Trans Tech Publ,47
+278,2009.0,Wiley Online Library,1986
+279,2009.0,aip.scitation.org,301
+280,2009.0,ieeexplore.ieee.org,897
+281,2009.0,iopscience.iop.org,1666
+282,2009.0,pubs.rsc.org,1763
+283,2009.0,science.sciencemag.org,734
+284,2009.0,ui.adsabs.harvard.edu,169
+285,2010.0,ACS Publications,16821
+286,2010.0,Elsevier,9072
+287,2010.0,Google Patents,641
+288,2010.0,Wiley Online Library,1369
+289,2010.0,academia.edu,228
+290,2010.0,aip.scitation.org,49
+291,2010.0,asmedigitalcollection.asme.org,412
+292,2010.0,books.google.com,477
+293,2010.0,ieeexplore.ieee.org,1074
+294,2010.0,iopscience.iop.org,738
+295,2010.0,mdpi.com,289
+296,2010.0,nature.com,3023
+297,2010.0,osapublishing.org,4
+298,2010.0,osti.gov,0
+299,2010.0,pubs.rsc.org,2338
+300,2011.0,194.226.210.10,209
+301,2011.0,ACS Publications,7729
+302,2011.0,Elsevier,10072
+303,2011.0,Google Patents,330
+304,2011.0,National Acad Sciences,199
+305,2011.0,Springer,421
+306,2011.0,Taylor & Francis,572
+307,2011.0,Wiley Online Library,5020
+308,2011.0,aip.scitation.org,53
+309,2011.0,bjo.bmj.com,55
+310,2011.0,books.google.com,134
+311,2011.0,electrochemsci.org,59
+312,2011.0,ieeexplore.ieee.org,1225
+313,2011.0,int-res.com,49
+314,2011.0,iopscience.iop.org,3045
+315,2011.0,journals.sagepub.com,105
+316,2011.0,manu56.magtech.com.cn,9
+317,2011.0,mdpi.com,719
+318,2011.0,nature.com,311
+319,2011.0,osapublishing.org,10
+320,2011.0,pubs.rsc.org,5068
+321,2011.0,science.sciencemag.org,1251
+322,2012.0,ACS Publications,11855
+323,2012.0,APS,44
+324,2012.0,Elsevier,11854
+325,2012.0,IET,42
+326,2012.0,National Acad Sciences,685
+327,2012.0,Springer,582
+328,2012.0,Trans Tech Publ,61
+329,2012.0,Wiley Online Library,10030
+330,2012.0,aip.scitation.org,84
+331,2012.0,annualreviews.org,242
+332,2012.0,batterypoweronline.com,106
+333,2012.0,books.google.com,222
+334,2012.0,electrochemsci.org,91
+335,2012.0,ieeexplore.ieee.org,1575
+336,2012.0,iopscience.iop.org,2101
+337,2012.0,iovs.arvojournals.org,73
+338,2012.0,nature.com,2169
+339,2012.0,osti.gov,158
+340,2012.0,pubs.rsc.org,6905
+341,2013.0,ACS Publications,15086
+342,2013.0,Elsevier,13658
+343,2013.0,Google Patents,310
+344,2013.0,Springer,567
+345,2013.0,Wiley Online Library,6604
+346,2013.0,aip.scitation.org,17
+347,2013.0,books.google.com,205
+348,2013.0,electrochemsci.org,249
+349,2013.0,ieeexplore.ieee.org,821
+350,2013.0,ingentaconnect.com,37
+351,2013.0,iopscience.iop.org,1091
+352,2013.0,koreascience.or.kr,16
+353,2013.0,mdpi.com,1023
+354,2013.0,nature.com,2879
+355,2013.0,pubs.rsc.org,4241
+356,2014.0,ACS Publications,7959
+357,2014.0,Elsevier,10555
+358,2014.0,Google Patents,193
+359,2014.0,Springer,910
+360,2014.0,Taylor & Francis,403
+361,2014.0,Wiley Online Library,5404
+362,2014.0,World Scientific,30
+363,2014.0,aip.scitation.org,94
+364,2014.0,apps.dtic.mil,59
+365,2014.0,cambridge.org,127
+366,2014.0,electrochemsci.org,40
+367,2014.0,energy.gov,2
+368,2014.0,ieeexplore.ieee.org,543
+369,2014.0,iopscience.iop.org,510
+370,2014.0,mdpi.com,93
+371,2014.0,nature.com,6977
+372,2014.0,pubs.rsc.org,7679
+373,2014.0,scirp.org,43
+374,2015.0,ACS Publications,6635
+375,2015.0,Elsevier,8269
+376,2015.0,Google Patents,114
+377,2015.0,Springer,39
+378,2015.0,Wiley Online Library,3686
+379,2015.0,books.google.com,208
+380,2015.0,eng.uwo.ca,69
+381,2015.0,ieeexplore.ieee.org,500
+382,2015.0,iopscience.iop.org,1197
+383,2015.0,koreascience.or.kr,7
+384,2015.0,nature.com,2811
+385,2015.0,publications.lib.chalmers.se,26
+386,2015.0,pubs.rsc.org,3734
+387,2015.0,researchgate.net,119
+388,2015.0,science.sciencemag.org,1071
+389,2016.0,ACS Publications,4425
+390,2016.0,Elsevier,6844
+391,2016.0,Google Patents,18
+392,2016.0,Springer,66
+393,2016.0,Wiley Online Library,7013
+394,2016.0,aip.scitation.org,31
+395,2016.0,asmedigitalcollection.asme.org,44
+396,2016.0,cambridge.org,52
+397,2016.0,ieeexplore.ieee.org,508
+398,2016.0,iopscience.iop.org,1508
+399,2016.0,journals.plos.org,9
+400,2016.0,nature.com,4181
+401,2016.0,papersearch.net,0
+402,2016.0,pubs.rsc.org,1582
+403,2016.0,researchgate.net,83
+404,2017.0,ACS Publications,4581
+405,2017.0,Elsevier,4890
+406,2017.0,Google Patents,121
+407,2017.0,National Acad Sciences,56
+408,2017.0,Springer,582
+409,2017.0,Wiley Online Library,6783
+410,2017.0,advances.sciencemag.org,202
+411,2017.0,enerjiye.com,151
+412,2017.0,ieeexplore.ieee.org,346
+413,2017.0,iopscience.iop.org,831
+414,2017.0,mdpi.com,465
+415,2017.0,nature.com,994
+416,2017.0,publications.lib.chalmers.se,26
+417,2017.0,pubs.rsc.org,1640
+418,2017.0,science.sciencemag.org,1119
+419,2017.0,search.proquest.com,1
+420,2017.0,sites01.lsu.edu,27
+421,2017.0,trace.tennessee.edu,0
+422,2018.0,ACS Publications,941
+423,2018.0,Elsevier,4307
+424,2018.0,Wiley Online Library,5158
+425,2018.0,advances.sciencemag.org,334
+426,2018.0,cambridge.org,0
+427,2018.0,diva-portal.org,0
+428,2018.0,ieeexplore.ieee.org,188
+429,2018.0,iopscience.iop.org,96
+430,2018.0,journals.plos.org,10
+431,2018.0,jov.arvojournals.org,8
+432,2018.0,mdpi.com,36
+433,2018.0,nature.com,1518
+434,2018.0,pubs.rsc.org,928
+435,2018.0,science.sciencemag.org,53
+436,2019.0,ACS Publications,134
+437,2019.0,Elsevier,790
+438,2019.0,Google Patents,2
+439,2019.0,Springer,17
+440,2019.0,Wiley Online Library,974
+441,2019.0,frontiersin.org,6
+442,2019.0,ieeexplore.ieee.org,26
+443,2019.0,iopscience.iop.org,55
+444,2019.0,nature.com,330
+445,2019.0,pubs.rsc.org,352
+446,2020.0,ACS Publications,3
+447,2020.0,Elsevier,42
+448,2020.0,Google Patents,5
+449,2020.0,Springer,0
+450,2020.0,Wiley Online Library,3
+451,2020.0,electrochemsci.org,2
+452,2020.0,iopscience.iop.org,4
+453,2020.0,nature.com,1
+454,2020.0,pubmed.ncbi.nlm.nih.gov,1
+455,2020.0,pubs.rsc.org,0
